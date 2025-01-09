@@ -27,7 +27,7 @@ spec:
               - ALL
           privileged: false
           readOnlyRootFilesystem: true 
-        image: nbrown/nginxhello:1.12.1       
+        image: nbrown/nginxhello:1.12.1
 ---
 apiVersion: v1
 kind: Service
